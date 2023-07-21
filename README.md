@@ -1,2 +1,12 @@
-<h1>flutter_project1</h1>
-<p>After uploading the "lib" directory and files to your folder, don't forget to run the command "flutter put get"!</p>
+# flutter_project1
+In this project, I created a profile page using Flutter in VSCode.
+
+### In case of an error in debug, try to run these two commands in the terminal!
+
+```
+flutter clean
+```
+
+```
+flutter put get
+```
