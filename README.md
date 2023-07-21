@@ -7,8 +7,9 @@ In this project, I created a profile page using Flutter in VSCode.
 flutter clean
 ```
 
+The first command is to clean the cache inside the folder. The second is commanded for more Flutter packages.
 ```
-flutter put get
+flutter pub get
 ```
 
 Enjoy!
