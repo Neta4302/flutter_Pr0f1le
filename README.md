@@ -8,5 +8,9 @@ flutter clean
 ```
 
 ```
+npm install
+```
+
+```
 flutter put get
 ```
