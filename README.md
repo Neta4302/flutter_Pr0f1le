@@ -11,6 +11,6 @@ The first command is to clean the cache inside the folder.
 ```
 flutter pub get
 ```
-The second is commanded for more Flutter packages.
+Then, the second is commanded for more Flutter packages.
 
 Enjoy!
